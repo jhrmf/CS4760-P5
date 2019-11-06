@@ -33,8 +33,9 @@ void threadFunc(float creationTime, float checkIfTerminate, int element){       
             leaveItToChance = getRandom(0, 100);                                                //get the value 0 to 100
             if(leaveItToChance < 10 ){                                             //if the value is 0-9 or a 10% chance
                 resources = shmat(dataId, NULL, 0);                         //attach to shared memory for resource table
-                resources[element].alive = 0;                                                     //mark it as not alive
+                //resources[element].alive = 0;                                                   //mark it as not alive
                 shmdt(resources);                                                            //detach from shared memory
+                printf("Oh shit!!\n");
                 break;
             }
             else{
@@ -56,13 +57,12 @@ void threadFunc(float creationTime, float checkIfTerminate, int element){       
                     //release resource
                 }
                 checkMe += checkIfTerminate;                                   //if not between 0-9, get next check time
-                sem_post(&mutex);                                                                      //end of critical section
+                sem_post(&mutex);                                                              //end of critical section
             }
         }
 
-
-
     }while(1);
+    sem_post(&mutex);                                                              //end of critical section
 }
 
 int main(int argc, char* argv[]){
@@ -82,6 +82,6 @@ int main(int argc, char* argv[]){
     sem_init(&mutex, 1, 1);
     threadFunc(creationTime, checkIfTerminate, element);                                       //call semaphore function
     sem_destroy(&mutex);                                                                         //destroy the semaphore
-
+    printf("I fucking died yo!\n");
     exit(0);
 }

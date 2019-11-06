@@ -33,6 +33,7 @@ static void myhandler(int s) {                                    //handler for 
     shmctl(shmget(66, 2048, 0666), IPC_RMID, NULL);                                               //delete shared memory
     shmctl(shmget(67, 2048, 0666), IPC_RMID, NULL);                                               //delete shared memory
     shmctl(shmget(65, 2048, 0666), IPC_RMID, NULL);                                               //delete shared memory
+    shmctl(shmget(69, 2048, 0666), IPC_RMID, NULL);                                               //delete shared memory
     exit(0);                                                           //close program in its tracks after timer expires
     errno = errsave;
 }
@@ -59,9 +60,11 @@ int main(int argc, char *argv[]) {
     virtual.nanoseconds = 0;                                                            //nanosecond counter is set to 0
     virtual.seconds = 0;                                                                    //second counter is set to 0
     key_t dataKey = 65;
-    int processCount = 0;
     int requestCount = 0;
+    int grantedCount = 0;
+    int deniedCount = 0;
     int lineCount = 0;
+    int tableCount = 1;
     int dataId = shmget(dataKey, 2048, 0666|IPC_CREAT);
 
     /*while ((opt = getopt(argc, argv,"hs:l:t:")) != -1) {                                              //GET OPT WOOOOO
@@ -98,10 +101,9 @@ int main(int argc, char *argv[]) {
     int childCount;                                      //this is for a loop below to hold the count of child processes
     pid_t childPid;                                            //of course we need one of these guys for child processes
     remove("logFile");                                //remove whatever the default log file name just in case it exists
-
     int i, processNumber;
 
-    for(i = 0; i < 19; i++){                                                        //initialize all resources from 1-18
+    for(i = 0; i < 18; i++){                                                        //initialize all resources from 1-18
             resources = shmat(dataId, NULL, 0);
             resources[i].requests = getRandom(10, 1);
             resources[i].maxClaims = 0;
@@ -112,12 +114,13 @@ int main(int argc, char *argv[]) {
     }
 
     FILE *logptr = fopen(fileName, "w");                                               //initialize file ptr for writing
+
     float randomProcessMili = getRandom(2, 499);
     int checkSpace;
     do{
             int miliCheck = virtual.nanoseconds / 1000000;              //get current millisecond for process time check
             if(miliCheck == randomProcessMili){                                          //if its time to fork a process
-                for(i = 0; i < 19; i++){                               //see if there is process space open (18 or less)
+                for(i = 0; i < 18; i++){                               //see if there is process space open (18 or less)
                     resources = shmat(dataId, NULL, 0);
                     checkSpace = resources[i].alive;
                     shmdt(resources);
@@ -130,7 +133,6 @@ int main(int argc, char *argv[]) {
                     }
                 }
                 if(processNumber != -1){
-                    processCount++;
                     char temp[2];
                     sprintf(temp, "%d", processNumber);
                     char *envp[] = {temp, NULL};
@@ -170,7 +172,7 @@ int main(int argc, char *argv[]) {
                             strcat(msg, "\n");
                             fputs(msg, logptr);
                         }
-
+                        grantedCount;
                         requestCount++;
                     }else{
                         if(lineCount < 100000) {
@@ -192,6 +194,7 @@ int main(int argc, char *argv[]) {
                             strcat(msg, " allocations\n");
                             fputs(msg, logptr);
                         }
+                        deniedCount++;
                     }
                     resources[elementForUse].requests = getRandom(10, 1);
                 }else{
@@ -215,7 +218,7 @@ int main(int argc, char *argv[]) {
                         }
                         resources[elementForUse].released = getRandom(10, 1);
                         requestCount++;
-
+                        grantedCount++;
                     }else{
                         if(lineCount < 100000) {
                             strcpy(msg, "Request for release of ");
@@ -233,18 +236,24 @@ int main(int argc, char *argv[]) {
                             fputs(msg, logptr);
                         }
                         resources[elementForUse].allocations = 0;
-
+                        requestCount++;
+                        grantedCount++;
                     }
                 }
 
                 if(requestCount == 20){
                     int n;
-                    printf("| Allocations | Requests | Released | Max Claims |\n");
-                    for(n = 0; n < 19; n++){
+                    printf("----------------------------------------------------\n");
+                    printf("TABLE AFTER %d GRANTED REQUESTS\n", tableCount*10);
+                    printf("| Allocations  | Requests | Released | Max Claims |\n");
+                    for(n = 0; n < 18; n++){
                         printf("| %-11ld | %-9ld | %-8ld | %-10d |\n", resources[n].allocations, resources[n].requests,
                                 resources[n].released, resources[n].maxClaims);
                     }
-                requestCount = 0;
+                    printf("----------------------------------------------------\n");
+                    printf("\n");
+                    tableCount++;
+                    requestCount = 0;
                 }
                 shmdt(resources);
                 shmdt(iShould);
@@ -258,8 +267,10 @@ int main(int argc, char *argv[]) {
                 }
             }
 
-    } while (virtual.seconds < 20);   //this do while loop ends if seconds < 2 or 100 children exist
-    printf("Finished\n");
+    } while (virtual.seconds < 10);   //this do while loop ends if seconds < 2 or 100 children exist
+    printf("Finished - printed %d lines and ran for %d virtual seconds\n", lineCount, virtual.seconds);
+    printf("Granted Requests: %d | Denied Requests: %d | Approval Rate: %f %\n", grantedCount, deniedCount,
+            (float)((float)grantedCount /(float)(grantedCount + deniedCount)));
     fclose(logptr);                                                                                 //close the log file
     shmctl(shmget(66, 2048, 0444), IPC_RMID, NULL);                               //delete the shared memory for seconds
     shmctl(shmget(67, 2048, 0444), IPC_RMID, NULL);                           //delete the shared memory for nanoseconds
