@@ -47,22 +47,21 @@ struct myTime{                                                                  
 struct RESOURCE{
 
     int alive;
-
-    int maxClaims;
-    int requests;
-    int allocations;
-    int released;
-
+    int maxClaims[20];
+    int allocations[20];
 };
 
 struct WHATDO{
     int requestOrRelease;
     int element;
+    int resource;
+    int deadCount;
 };
 
 struct myTime virtual;                                                             //struct for holding the virtual time
 struct RESOURCE *resources;
 struct WHATDO *iShould;
+int maxResources[20] = {4, 6, 4, 7, 2, 7, 8, 3, 9, 4, 5, 3, 10, 2, 5, 6, 2, 6, 9, 5};
 
 const int getRandom(const int max, const int min){            //function for getting a random number between max and min
     int randomNumber = ((rand() % (max + 1 - min)) + min);

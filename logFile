@@ -1,367 +1,766 @@
-Request for release of 8 was greater than the amount of allocations ( 7 ) for process 0 and has been set to 0
-Request approved for allocation of 4 resources | There are now 4 allocations in for process 0
-Request approved for allocation of 3 resources | There are now 7 allocations in for process 0
-Request approved for allocation of 1 resources | There are now 8 allocations in for process 0
-Request for release of 6 was greater than the amount of allocations ( 4 ) for process 1 and has been set to 0
-Request for release of 10 was greater than the amount of allocations ( 3 ) for process 2 and has been set to 0
-Request approved for allocation of 6 resources | There are now 14 allocations in for process 0
-Request approved for allocation of 6 resources | There are now 6 allocations in for process 1
-Request approved for allocation of 7 resources | There are now 7 allocations in for process 2
-Request approved for release of 6 resources | There are now 6 allocations in for process 0
-Request approved for allocation of 5 resources | There are now 11 allocations in for process 1
-Request approved for allocation of 8 resources | There are now 15 allocations in for process 2
-Request approved for allocation of 6 resources | There are now 12 allocations in for process 0
-Request for allocation of 6 resources has been denied as the max claims for process 1 is 17 and there are already 11 allocations
-Request for allocation of 7 resources has been denied as the max claims for process 2 is 17 and there are already 15 allocations
-Request approved for release of 10 resources | There are now 5 allocations in for process 0
-Request for release of 8 was greater than the amount of allocations ( 3 ) for process 3 and has been set to 0
-Request for allocation of 8 resources has been denied as the max claims for process 1 is 17 and there are already 11 allocations
-Request for allocation of 5 resources has been denied as the max claims for process 2 is 17 and there are already 15 allocations
-Request approved for release of 1 resources | There are now 6 allocations in for process 4
-Request for release of 7 was greater than the amount of allocations ( 1 ) for process 5 and has been set to 0
-Request approved for allocation of 10 resources | There are now 15 allocations in for process 0
-Request approved for allocation of 2 resources | There are now 2 allocations in for process 3
-Request approved for release of 3 resources | There are now 5 allocations in for process 6
-Request approved for release of 8 resources | There are now 5 allocations in for process 1
-Request approved for release of 5 resources | There are now 5 allocations in for process 2
-Request approved for allocation of 1 resources | There are now 7 allocations in for process 4
-Request approved for allocation of 7 resources | There are now 7 allocations in for process 5
-Request for allocation of 4 resources has been denied as the max claims for process 0 is 17 and there are already 15 allocations
-Request for allocation of 8 resources has been denied as the max claims for process 3 is 7 and there are already 2 allocations
-Request for release of 10 was greater than the amount of allocations ( 8 ) for process 7 and has been set to 0
-Request approved for allocation of 3 resources | There are now 8 allocations in for process 6
-Request approved for allocation of 8 resources | There are now 13 allocations in for process 1
-Request approved for allocation of 5 resources | There are now 10 allocations in for process 2
-Request approved for allocation of 9 resources | There are now 16 allocations in for process 4
-Request for allocation of 5 resources has been denied as the max claims for process 5 is 12 and there are already 7 allocations
-Request for allocation of 4 resources has been denied as the max claims for process 0 is 17 and there are already 15 allocations
-Request approved for allocation of 2 resources | There are now 4 allocations in for process 3
-Request approved for allocation of 9 resources | There are now 9 allocations in for process 7
-Request approved for allocation of 5 resources | There are now 13 allocations in for process 6
-Request approved for release of 10 resources | There are now 6 allocations in for process 1
-Request approved for release of 3 resources | There are now 1 allocations in for process 2
-Request for allocation of 1 resources has been denied as the max claims for process 4 is 17 and there are already 16 allocations
-Request for allocation of 7 resources has been denied as the max claims for process 5 is 12 and there are already 7 allocations
-Request for allocation of 9 resources has been denied as the max claims for process 0 is 17 and there are already 15 allocations
-Request for allocation of 10 resources has been denied as the max claims for process 3 is 7 and there are already 4 allocations
-Request approved for allocation of 3 resources | There are now 12 allocations in for process 7
-Request for allocation of 7 resources has been denied as the max claims for process 6 is 17 and there are already 13 allocations
-Request approved for allocation of 10 resources | There are now 16 allocations in for process 1
-Request approved for allocation of 3 resources | There are now 4 allocations in for process 2
-Request for allocation of 10 resources has been denied as the max claims for process 4 is 17 and there are already 16 allocations
-Request for allocation of 6 resources has been denied as the max claims for process 5 is 12 and there are already 7 allocations
-Request approved for release of 1 resources | There are now 9 allocations in for process 0
-Request for release of 8 was greater than the amount of allocations ( 4 ) for process 3 and has been set to 0
-Request approved for allocation of 9 resources | There are now 21 allocations in for process 7
-Request for allocation of 8 resources has been denied as the max claims for process 6 is 17 and there are already 13 allocations
-Request for allocation of 2 resources has been denied as the max claims for process 1 is 17 and there are already 16 allocations
-Request approved for allocation of 8 resources | There are now 12 allocations in for process 2
-Request approved for release of 3 resources | There are now 11 allocations in for process 4
-Request for release of 7 was greater than the amount of allocations ( 7 ) for process 5 and has been set to 0
-Request approved for release of 1 resources | There are now 6 allocations in for process 0
-Request for release of 6 was greater than the amount of allocations ( 6 ) for process 0 and has been set to 0
-Request approved for allocation of 5 resources | There are now 5 allocations in for process 3
-Request for allocation of 7 resources has been denied as the max claims for process 7 is 23 and there are already 21 allocations
-Request approved for release of 2 resources | There are now 4 allocations in for process 6
-Request for allocation of 7 resources has been denied as the max claims for process 2 is 17 and there are already 12 allocations
-Request for allocation of 1 resources has been denied as the max claims for process 1 is 17 and there are already 16 allocations
-Request approved for allocation of 3 resources | There are now 14 allocations in for process 4
-Request approved for allocation of 3 resources | There are now 4 allocations in for process 8
-Request approved for allocation of 3 resources | There are now 3 allocations in for process 5
-Request for release of 6 was greater than the amount of allocations ( 0 ) for process 0 and has been set to 0
-Request for release of 8 was greater than the amount of allocations ( 5 ) for process 3 and has been set to 0
-Request approved for release of 5 resources | There are now 11 allocations in for process 7
-Request approved for allocation of 2 resources | There are now 6 allocations in for process 6
-Request for allocation of 10 resources has been denied as the max claims for process 1 is 17 and there are already 16 allocations
-Request approved for allocation of 1 resources | There are now 13 allocations in for process 2
-Request approved for release of 2 resources | There are now 12 allocations in for process 4
-Request for release of 7 was greater than the amount of allocations ( 3 ) for process 5 and has been set to 0
-Request for allocation of 8 resources has been denied as the max claims for process 8 is 5 and there are already 4 allocations
-Request approved for allocation of 1 resources | There are now 1 allocations in for process 0
-Request for allocation of 10 resources has been denied as the max claims for process 3 is 7 and there are already 0 allocations
-Request approved for allocation of 5 resources | There are now 16 allocations in for process 7
-Request for release of 10 was greater than the amount of allocations ( 6 ) for process 6 and has been set to 0
-Request approved for release of 6 resources | There are now 9 allocations in for process 1
-Request approved for release of 10 resources | There are now 8 allocations in for process 2
-Request approved for allocation of 2 resources | There are now 14 allocations in for process 4
-Request approved for allocation of 8 resources | There are now 8 allocations in for process 5
-Request for allocation of 8 resources has been denied as the max claims for process 8 is 5 and there are already 4 allocations
-Request approved for allocation of 7 resources | There are now 8 allocations in for process 0
-Request for allocation of 8 resources has been denied as the max claims for process 3 is 7 and there are already 0 allocations
-Request approved for release of 4 resources | There are now 14 allocations in for process 7
-Request approved for allocation of 2 resources | There are now 2 allocations in for process 6
-Request approved for release of 6 resources | There are now 2 allocations in for process 1
-Request approved for release of 10 resources | There are now 2 allocations in for process 2
-Request for allocation of 7 resources has been denied as the max claims for process 4 is 17 and there are already 14 allocations
-Request for allocation of 5 resources has been denied as the max claims for process 8 is 5 and there are already 4 allocations
-Request for allocation of 10 resources has been denied as the max claims for process 5 is 12 and there are already 8 allocations
-Request approved for release of 4 resources | There are now 2 allocations in for process 9
-Request approved for release of 9 resources | There are now 2 allocations in for process 0
-Request approved for allocation of 2 resources | There are now 2 allocations in for process 3
-Request approved for allocation of 4 resources | There are now 18 allocations in for process 7
-Request approved for allocation of 4 resources | There are now 6 allocations in for process 6
-Request for release of 3 was greater than the amount of allocations ( 3 ) for process 10 and has been set to 0
-Request for release of 10 was greater than the amount of allocations ( 2 ) for process 1 and has been set to 0
-Request approved for release of 10 resources | There are now 1 allocations in for process 2
-Request for allocation of 9 resources has been denied as the max claims for process 4 is 17 and there are already 14 allocations
-Request approved for allocation of 1 resources | There are now 9 allocations in for process 5
-Request approved for release of 6 resources | There are now 1 allocations in for process 8
-Request approved for release of 9 resources | There are now 2 allocations in for process 11
-Request approved for allocation of 9 resources | There are now 11 allocations in for process 0
-Request approved for allocation of 4 resources | There are now 6 allocations in for process 3
-Request for allocation of 9 resources has been denied as the max claims for process 7 is 23 and there are already 18 allocations
-Request approved for allocation of 6 resources | There are now 12 allocations in for process 6
-Request approved for allocation of 10 resources | There are now 10 allocations in for process 10
-Request approved for allocation of 6 resources | There are now 6 allocations in for process 1
-Request approved for allocation of 10 resources | There are now 11 allocations in for process 2
-Request approved for allocation of 2 resources | There are now 16 allocations in for process 4
-Request approved for allocation of 2 resources | There are now 11 allocations in for process 5
-Request for allocation of 6 resources has been denied as the max claims for process 8 is 5 and there are already 1 allocations
-Request approved for allocation of 9 resources | There are now 11 allocations in for process 11
-Request approved for allocation of 4 resources | There are now 6 allocations in for process 9
-Request for release of 8 was greater than the amount of allocations ( 6 ) for process 3 and has been set to 0
-Request for allocation of 9 resources has been denied as the max claims for process 7 is 23 and there are already 18 allocations
-Request approved for allocation of 2 resources | There are now 14 allocations in for process 6
-Request approved for allocation of 1 resources | There are now 11 allocations in for process 10
-Request approved for allocation of 4 resources | There are now 10 allocations in for process 1
-Request approved for allocation of 1 resources | There are now 12 allocations in for process 2
-Request approved for release of 9 resources | There are now 4 allocations in for process 0
-Request approved for release of 5 resources | There are now 4 allocations in for process 5
-Request for release of 6 was greater than the amount of allocations ( 1 ) for process 8 and has been set to 0
-Request approved for allocation of 5 resources | There are now 16 allocations in for process 11
-Request approved for allocation of 8 resources | There are now 14 allocations in for process 9
-Request for release of 10 was greater than the amount of allocations ( 4 ) for process 0 and has been set to 0
-Request for release of 8 was greater than the amount of allocations ( 0 ) for process 3 and has been set to 0
-Request for allocation of 7 resources has been denied as the max claims for process 7 is 23 and there are already 18 allocations
-Request approved for release of 4 resources | There are now 4 allocations in for process 6
-Request approved for allocation of 2 resources | There are now 13 allocations in for process 10
-Request approved for release of 6 resources | There are now 5 allocations in for process 2
-Request for release of 10 was greater than the amount of allocations ( 10 ) for process 1 and has been set to 0
-Request approved for release of 5 resources | There are now 8 allocations in for process 4
-Request for release of 7 was greater than the amount of allocations ( 4 ) for process 5 and has been set to 0
-Request for allocation of 5 resources has been denied as the max claims for process 8 is 5 and there are already 0 allocations
-Request approved for allocation of 3 resources | There are now 19 allocations in for process 11
-Request approved for allocation of 9 resources | There are now 9 allocations in for process 0
-Request for release of 8 was greater than the amount of allocations ( 0 ) for process 3 and has been set to 0
-Request approved for release of 8 resources | There are now 15 allocations in for process 7
-Request for release of 9 was greater than the amount of allocations ( 4 ) for process 6 and has been set to 0
-Request approved for allocation of 6 resources | There are now 19 allocations in for process 10
-Request approved for allocation of 8 resources | There are now 8 allocations in for process 1
-Request approved for allocation of 6 resources | There are now 11 allocations in for process 2
-Request approved for release of 5 resources | There are now 6 allocations in for process 4
-Request approved for release of 4 resources | There are now 5 allocations in for process 12
-Request approved for release of 2 resources | There are now 4 allocations in for process 9
-Request for allocation of 9 resources has been denied as the max claims for process 8 is 5 and there are already 0 allocations
-Request for allocation of 10 resources has been denied as the max claims for process 0 is 17 and there are already 9 allocations
-Request approved for allocation of 5 resources | There are now 5 allocations in for process 3
-Request approved for release of 8 resources | There are now 7 allocations in for process 7
-Request for release of 9 was greater than the amount of allocations ( 0 ) for process 6 and has been set to 0
-Request approved for release of 9 resources | There are now 3 allocations in for process 2
-Request for release of 10 was greater than the amount of allocations ( 8 ) for process 1 and has been set to 0
-Request approved for allocation of 5 resources | There are now 11 allocations in for process 4
-Request approved for allocation of 4 resources | There are now 9 allocations in for process 12
-Request for allocation of 9 resources has been denied as the max claims for process 8 is 5 and there are already 0 allocations
-Request approved for allocation of 5 resources | There are now 5 allocations in for process 5
-Request approved for release of 6 resources | There are now 9 allocations in for process 11
-Request for allocation of 10 resources has been denied as the max claims for process 0 is 17 and there are already 9 allocations
-Request approved for allocation of 2 resources | There are now 6 allocations in for process 9
-Request for allocation of 7 resources has been denied as the max claims for process 3 is 7 and there are already 5 allocations
-Request approved for release of 8 resources | There are now 2 allocations in for process 7
-Request approved for allocation of 4 resources | There are now 4 allocations in for process 6
-Request for allocation of 6 resources has been denied as the max claims for process 10 is 23 and there are already 19 allocations
-Request for release of 4 was greater than the amount of allocations ( 3 ) for process 2 and has been set to 0
-Request for release of 10 was greater than the amount of allocations ( 0 ) for process 1 and has been set to 0
-Request approved for allocation of 4 resources | There are now 13 allocations in for process 12
-Request approved for allocation of 4 resources | There are now 15 allocations in for process 4
-Request for allocation of 7 resources has been denied as the max claims for process 5 is 12 and there are already 5 allocations
-Request approved for allocation of 6 resources | There are now 15 allocations in for process 11
-Request for allocation of 9 resources has been denied as the max claims for process 8 is 5 and there are already 0 allocations
-Request approved for allocation of 5 resources | There are now 14 allocations in for process 0
-Request approved for allocation of 8 resources | There are now 10 allocations in for process 7
-Request approved for release of 8 resources | There are now 16 allocations in for process 10
-Request approved for allocation of 4 resources | There are now 4 allocations in for process 1
-Request approved for allocation of 10 resources | There are now 14 allocations in for process 6
-Request approved for allocation of 9 resources | There are now 9 allocations in for process 2
-Request approved for release of 7 resources | There are now 6 allocations in for process 4
-Request for allocation of 8 resources has been denied as the max claims for process 12 is 17 and there are already 13 allocations
-Request for release of 7 was greater than the amount of allocations ( 5 ) for process 5 and has been set to 0
-Request approved for release of 4 resources | There are now 14 allocations in for process 11
-Request for allocation of 9 resources has been denied as the max claims for process 3 is 7 and there are already 5 allocations
-Request approved for allocation of 1 resources | There are now 11 allocations in for process 7
-Request approved for allocation of 3 resources | There are now 7 allocations in for process 1
-Request approved for release of 6 resources | There are now 5 allocations in for process 6
-Request for allocation of 8 resources has been denied as the max claims for process 10 is 23 and there are already 16 allocations
-Request approved for allocation of 1 resources | There are now 10 allocations in for process 2
-Request approved for release of 3 resources | There are now 6 allocations in for process 13
-Request approved for allocation of 7 resources | There are now 13 allocations in for process 4
-Request for allocation of 10 resources has been denied as the max claims for process 12 is 17 and there are already 13 allocations
-Request for release of 6 was greater than the amount of allocations ( 0 ) for process 8 and has been set to 0
-Request approved for allocation of 5 resources | There are now 5 allocations in for process 5
-Request approved for allocation of 9 resources | There are now 15 allocations in for process 9
-Request for allocation of 4 resources has been denied as the max claims for process 0 is 17 and there are already 14 allocations
-Request for release of 8 was greater than the amount of allocations ( 5 ) for process 3 and has been set to 0
-Request approved for release of 10 resources | There are now 2 allocations in for process 7
-Request approved for allocation of 6 resources | There are now 11 allocations in for process 6
-Request approved for allocation of 5 resources | There are now 21 allocations in for process 10
-Request approved for allocation of 3 resources | There are now 10 allocations in for process 1
-Request for allocation of 8 resources has been denied as the max claims for process 2 is 17 and there are already 10 allocations
-Request approved for allocation of 3 resources | There are now 9 allocations in for process 13
-Request approved for release of 6 resources | There are now 7 allocations in for process 4
-Request approved for release of 5 resources | There are now 9 allocations in for process 12
-Request for release of 7 was greater than the amount of allocations ( 5 ) for process 5 and has been set to 0
-Request approved for allocation of 2 resources | There are now 17 allocations in for process 9
-Request approved for allocation of 4 resources | There are now 18 allocations in for process 11
-Request for allocation of 3 resources has been denied as the max claims for process 0 is 17 and there are already 14 allocations
-Request for release of 8 was greater than the amount of allocations ( 0 ) for process 3 and has been set to 0
-Request approved for allocation of 10 resources | There are now 12 allocations in for process 7
-Request approved for release of 10 resources | There are now 8 allocations in for process 6
-Request for allocation of 4 resources has been denied as the max claims for process 10 is 23 and there are already 21 allocations
-Request for allocation of 7 resources has been denied as the max claims for process 1 is 17 and there are already 10 allocations
-Request approved for allocation of 1 resources | There are now 10 allocations in for process 13
-Request approved for release of 6 resources | There are now 4 allocations in for process 4
-Request approved for allocation of 5 resources | There are now 14 allocations in for process 12
-Request approved for allocation of 6 resources | There are now 24 allocations in for process 11
-Request approved for allocation of 1 resources | There are now 1 allocations in for process 8
-Request approved for allocation of 1 resources | There are now 18 allocations in for process 9
-Request for allocation of 7 resources has been denied as the max claims for process 3 is 7 and there are already 0 allocations
-Request approved for release of 2 resources | There are now 4 allocations in for process 0
-Request approved for release of 2 resources | There are now 3 allocations in for process 7
-Request approved for release of 10 resources | There are now 7 allocations in for process 6
-Request for allocation of 9 resources has been denied as the max claims for process 10 is 23 and there are already 21 allocations
-Request for release of 10 was greater than the amount of allocations ( 10 ) for process 1 and has been set to 0
-Request approved for release of 9 resources | There are now 6 allocations in for process 2
-Request approved for allocation of 1 resources | There are now 11 allocations in for process 13
-Request approved for release of 5 resources | There are now 12 allocations in for process 12
-Request approved for allocation of 3 resources | There are now 4 allocations in for process 8
-Request approved for allocation of 9 resources | There are now 9 allocations in for process 5
-Request approved for release of 9 resources | There are now 16 allocations in for process 9
-Request approved for allocation of 2 resources | There are now 6 allocations in for process 0
-Request for release of 9 was greater than the amount of allocations ( 3 ) for process 7 and has been set to 0
-Request approved for release of 8 resources | There are now 11 allocations in for process 10
-Request for allocation of 10 resources has been denied as the max claims for process 6 is 17 and there are already 7 allocations
-Request approved for allocation of 6 resources | There are now 6 allocations in for process 1
-Request approved for allocation of 9 resources | There are now 15 allocations in for process 2
-Request approved for allocation of 5 resources | There are now 16 allocations in for process 13
-Request for allocation of 5 resources has been denied as the max claims for process 12 is 17 and there are already 12 allocations
-Request for release of 6 was greater than the amount of allocations ( 4 ) for process 8 and has been set to 0
-Request approved for release of 7 resources | There are now 19 allocations in for process 11
-Request approved for allocation of 10 resources | There are now 16 allocations in for process 0
-Request approved for allocation of 2 resources | There are now 12 allocations in for process 14
-Request for allocation of 7 resources has been denied as the max claims for process 3 is 7 and there are already 0 allocations
-Request approved for allocation of 9 resources | There are now 16 allocations in for process 6
-Request approved for release of 8 resources | There are now 10 allocations in for process 10
-Request for allocation of 2 resources has been denied as the max claims for process 2 is 17 and there are already 15 allocations
-Request approved for allocation of 4 resources | There are now 10 allocations in for process 1
-Request approved for release of 2 resources | There are now 8 allocations in for process 13
-Request approved for allocation of 6 resources | There are now 10 allocations in for process 4
-Request approved for allocation of 1 resources | There are now 13 allocations in for process 12
-Request for allocation of 3 resources has been denied as the max claims for process 5 is 12 and there are already 9 allocations
-Request for allocation of 7 resources has been denied as the max claims for process 8 is 5 and there are already 0 allocations
-Request approved for release of 7 resources | There are now 15 allocations in for process 11
-Request approved for release of 9 resources | There are now 6 allocations in for process 9
-Request approved for release of 5 resources | There are now 13 allocations in for process 0
-Request approved for allocation of 1 resources | There are now 13 allocations in for process 14
-Request approved for allocation of 4 resources | There are now 4 allocations in for process 3
-Request approved for allocation of 2 resources | There are now 2 allocations in for process 7
-Request approved for release of 8 resources | There are now 8 allocations in for process 10
-Request for release of 10 was greater than the amount of allocations ( 10 ) for process 1 and has been set to 0
-Request approved for release of 10 resources | There are now 12 allocations in for process 2
-Request approved for allocation of 8 resources | There are now 17 allocations in for process 15
-Request approved for allocation of 2 resources | There are now 10 allocations in for process 13
-Request approved for allocation of 4 resources | There are now 14 allocations in for process 4
-Request for release of 6 was greater than the amount of allocations ( 0 ) for process 8 and has been set to 0
-Request for allocation of 9 resources has been denied as the max claims for process 5 is 12 and there are already 9 allocations
-Request approved for allocation of 9 resources | There are now 15 allocations in for process 9
-Request for allocation of 5 resources has been denied as the max claims for process 0 is 17 and there are already 13 allocations
-Request for release of 8 was greater than the amount of allocations ( 4 ) for process 3 and has been set to 0
-Request approved for allocation of 1 resources | There are now 3 allocations in for process 7
-Request for allocation of 10 resources has been denied as the max claims for process 6 is 17 and there are already 16 allocations
-Request for allocation of 10 resources has been denied as the max claims for process 2 is 17 and there are already 12 allocations
-Request for release of 10 was greater than the amount of allocations ( 10 ) for process 13 and has been set to 0
-Request approved for allocation of 3 resources | There are now 20 allocations in for process 15
-Request approved for release of 8 resources | There are now 7 allocations in for process 4
-Request approved for release of 6 resources | There are now 2 allocations in for process 5
-Request for release of 6 was greater than the amount of allocations ( 0 ) for process 8 and has been set to 0
-Request for allocation of 4 resources has been denied as the max claims for process 12 is 17 and there are already 13 allocations
-Request approved for allocation of 7 resources | There are now 22 allocations in for process 11
-Request for allocation of 10 resources has been denied as the max claims for process 0 is 17 and there are already 13 allocations
-Request for allocation of 7 resources has been denied as the max claims for process 9 is 22 and there are already 15 allocations
-Request approved for allocation of 5 resources | There are now 18 allocations in for process 14
-Request approved for allocation of 9 resources | There are now 12 allocations in for process 7
-Request approved for release of 8 resources | There are now 11 allocations in for process 6
-Request approved for allocation of 7 resources | There are now 7 allocations in for process 1
-Request approved for allocation of 3 resources | There are now 15 allocations in for process 2
-Request approved for allocation of 7 resources | There are now 7 allocations in for process 13
-Request for allocation of 9 resources has been denied as the max claims for process 15 is 23 and there are already 20 allocations
-Request approved for release of 10 resources | There are now 12 allocations in for process 12
-Request approved for allocation of 8 resources | There are now 15 allocations in for process 4
-Request approved for allocation of 6 resources | There are now 8 allocations in for process 5
-Request approved for allocation of 1 resources | There are now 1 allocations in for process 8
-Request approved for release of 3 resources | There are now 8 allocations in for process 9
-Request approved for allocation of 7 resources | There are now 29 allocations in for process 11
-Request approved for release of 1 resources | There are now 6 allocations in for process 0
-Request approved for release of 8 resources | There are now 13 allocations in for process 14
-Request approved for allocation of 1 resources | There are now 1 allocations in for process 3
-Request for allocation of 8 resources has been denied as the max claims for process 6 is 17 and there are already 11 allocations
-Request approved for release of 7 resources | There are now 3 allocations in for process 7
-Request for release of 10 was greater than the amount of allocations ( 7 ) for process 1 and has been set to 0
-Request approved for release of 8 resources | There are now 3 allocations in for process 10
-Request approved for release of 3 resources | There are now 8 allocations in for process 2
-Request for allocation of 10 resources has been denied as the max claims for process 15 is 23 and there are already 20 allocations
-Request approved for allocation of 2 resources | There are now 9 allocations in for process 13
-Request for allocation of 2 resources has been denied as the max claims for process 4 is 17 and there are already 15 allocations
-Request for release of 4 was greater than the amount of allocations ( 1 ) for process 16 and has been set to 0
-Request for allocation of 10 resources has been denied as the max claims for process 8 is 5 and there are already 1 allocations
-Request approved for release of 1 resources | There are now 23 allocations in for process 11
-Request approved for allocation of 8 resources | There are now 21 allocations in for process 14
-Request for release of 8 was greater than the amount of allocations ( 1 ) for process 3 and has been set to 0
-Request approved for allocation of 7 resources | There are now 10 allocations in for process 7
-Request for allocation of 8 resources has been denied as the max claims for process 6 is 17 and there are already 11 allocations
-Request approved for allocation of 4 resources | There are now 4 allocations in for process 1
-Request approved for allocation of 3 resources | There are now 11 allocations in for process 2
-Request approved for allocation of 5 resources | There are now 14 allocations in for process 13
-Request approved for release of 1 resources | There are now 15 allocations in for process 15
-Request approved for release of 3 resources | There are now 12 allocations in for process 4
-Request approved for release of 10 resources | There are now 2 allocations in for process 12
-Request approved for allocation of 6 resources | There are now 6 allocations in for process 16
-Request for allocation of 10 resources has been denied as the max claims for process 8 is 5 and there are already 1 allocations
-Request for release of 10 was greater than the amount of allocations ( 8 ) for process 5 and has been set to 0
-Request approved for release of 3 resources | There are now 6 allocations in for process 9
-Request for release of 8 was greater than the amount of allocations ( 6 ) for process 0 and has been set to 0
-Request approved for release of 2 resources | There are now 15 allocations in for process 14
-Request for allocation of 9 resources has been denied as the max claims for process 3 is 7 and there are already 0 allocations
-Request approved for allocation of 1 resources | There are now 11 allocations in for process 7
-Request approved for release of 5 resources | There are now 9 allocations in for process 6
-Request for release of 5 was greater than the amount of allocations ( 3 ) for process 10 and has been set to 0
-Request approved for allocation of 3 resources | There are now 7 allocations in for process 1
-Request approved for allocation of 3 resources | There are now 14 allocations in for process 2
-Request approved for allocation of 3 resources | There are now 17 allocations in for process 13
-Request approved for allocation of 3 resources | There are now 15 allocations in for process 4
-Request approved for allocation of 10 resources | There are now 12 allocations in for process 12
-Request approved for allocation of 5 resources | There are now 5 allocations in for process 5
-Request approved for release of 1 resources | There are now 16 allocations in for process 11
-Request approved for release of 3 resources | There are now 5 allocations in for process 9
-Request for allocation of 10 resources has been denied as the max claims for process 8 is 5 and there are already 1 allocations
-Request approved for allocation of 1 resources | There are now 1 allocations in for process 0
-Request for allocation of 9 resources has been denied as the max claims for process 3 is 7 and there are already 0 allocations
-Request approved for release of 4 resources | There are now 10 allocations in for process 7
-Request for release of 5 was greater than the amount of allocations ( 0 ) for process 10 and has been set to 0
-Request for release of 10 was greater than the amount of allocations ( 7 ) for process 1 and has been set to 0
-Request approved for allocation of 5 resources | There are now 14 allocations in for process 6
-Request approved for release of 5 resources | There are now 5 allocations in for process 2
-Request approved for release of 1 resources | There are now 14 allocations in for process 15
-Request approved for release of 1 resources | There are now 7 allocations in for process 13
-Request for allocation of 10 resources has been denied as the max claims for process 4 is 17 and there are already 15 allocations
-Request approved for allocation of 2 resources | There are now 14 allocations in for process 12
-Request approved for allocation of 3 resources | There are now 9 allocations in for process 16
-Request for allocation of 10 resources has been denied as the max claims for process 5 is 12 and there are already 5 allocations
-Request approved for allocation of 3 resources | There are now 8 allocations in for process 9
-Request approved for release of 1 resources | There are now 9 allocations in for process 11
-Request approved for allocation of 5 resources | There are now 6 allocations in for process 0
-Request for release of 8 was greater than the amount of allocations ( 0 ) for process 3 and has been set to 0
-Request approved for allocation of 4 resources | There are now 14 allocations in for process 7
-Request for allocation of 10 resources has been denied as the max claims for process 6 is 17 and there are already 14 allocations
-Request approved for allocation of 1 resources | There are now 1 allocations in for process 1
-Request approved for allocation of 1 resources | There are now 15 allocations in for process 15
-Request approved for release of 1 resources | There are now 6 allocations in for process 13
-Request approved for release of 1 resources | There are now 9 allocations in for process 4
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 7 for process 0
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 10 for process 0
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 7 for process 1
+Request approved for release of 0 resources | Released from process 0 for resource 7
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 0 for process 0
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 2 for process 0
+Request approved for release of 0 resources | Released from process 0 for resource 7
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 9 for process 0
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 0 for process 0
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 2 for process 1
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 0
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 7 for process 3
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 10 for process 2
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 9 for process 1
+Request approved for release of 1 resources | Released from process 0 for resource 9
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 10 for process 3
+Request approved for release of 0 resources | Released from process 0 for resource 7
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 1
+Request approved for allocation of 3 resources | There are now 3 allocations in resource 19 for process 0
+Request approved for release of 0 resources | Released from process 0 for resource 7
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 2 for process 2
+Request for release of 1 was greater than the amount of other resource allocations, and so 1 resources were removed from process 1, which now has 1 allocations.
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 18 for process 0
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 2 for process 3
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 2
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 19 for process 1
+Request approved for allocation of 0 resources | There are now 1 allocations in resource 10 for process 0
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 7 for process 4
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 3
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 2
+Request approved for allocation of 2 resources | There are now 2 allocations in resource 18 for process 1
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 10 for process 4
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 3
+Request approved for release of 0 resources | Released from process 0 for resource 9
+Request for allocation of 1 resources has been denied as the max resources for resource 7 is 3 and there are already 4 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 10 for process 1
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 13 for process 0
+Request approved for release of 0 resources | Released from process 0 for resource 7
+Request for release of 1 was greater than the amount of other resource allocations, and so 1 resources were removed from process 1, which now has 1 allocations.
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 19 for process 2
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 10 for process 5
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 2 for process 4
+Request approved for allocation of 2 resources | There are now 2 allocations in resource 19 for process 3
+Request approved for allocation of 2 resources | There are now 2 allocations in resource 18 for process 2
+Request approved for release of 0 resources | Released from process 0 for resource 7
+Request for allocation of 2 resources has been denied as the max resources for resource 13 is 2 and there are already 3 allocations
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 9 for process 4
+Request approved for allocation of 3 resources | There are now 3 allocations in resource 18 for process 3
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 10 for process 2
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 2 for process 5
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 4
+Request approved for allocation of 0 resources | There are now 1 allocations in resource 10 for process 3
+Request approved for release of 0 resources | Released from process 0 for resource 11
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 9 for process 5
+Request approved for allocation of 2 resources | There are now 2 allocations in resource 5 for process 1
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 7 for process 6
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 0
+Request approved for release of 0 resources | Released from process 0 for resource 9
+Request approved for release of 0 resources | Released from process 0 for resource 11
+Request for allocation of 2 resources has been denied as the max resources for resource 13 is 2 and there are already 3 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 5
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 10 for process 6
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request for allocation of 2 resources has been denied as the max resources for resource 19 is 5 and there are already 7 allocations
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 13 for process 3
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request approved for release of 0 resources | Released from process 0 for resource 9
+Request approved for release of 0 resources | Released from process 0 for resource 7
+Request for allocation of 2 resources has been denied as the max resources for resource 9 is 4 and there are already 5 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 5 for process 0
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 18 for process 4
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request approved for allocation of 2 resources | There are now 2 allocations in resource 5 for process 2
+Request for allocation of 1 resources has been denied as the max resources for resource 19 is 5 and there are already 6 allocations
+Request approved for release of 0 resources | Released from process 0 for resource 4
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 2 for process 6
+Request approved for allocation of 0 resources | There are now 1 allocations in resource 10 for process 4
+Request approved for allocation of 4 resources | There are now 4 allocations in resource 14 for process 0
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 5 for process 3
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request for allocation of 6 resources has been denied as the max resources for resource 18 is 9 and there are already 14 allocations
+Request approved for allocation of 0 resources | There are now 2 allocations in resource 5 for process 1
+Request for allocation of 2 resources has been denied as the max resources for resource 9 is 4 and there are already 5 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 7 is 3 and there are already 4 allocations
+Request approved for allocation of 0 resources | There are now 1 allocations in resource 10 for process 0
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request for allocation of 1 resources has been denied as the max resources for resource 10 is 5 and there are already 6 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 2
+Request for allocation of 2 resources has been denied as the max resources for resource 14 is 5 and there are already 6 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 6
+Request for allocation of 1 resources has been denied as the max resources for resource 10 is 5 and there are already 6 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 0
+Request for allocation of 1 resources has been denied as the max resources for resource 13 is 2 and there are already 3 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 9 is 4 and there are already 5 allocations
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for release of 0 resources | Released from process 0 for resource 4
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 10 for process 1
+Request approved for release of 1 resources | Released from process 1 for resource 9
+Request approved for release of 1 resources | Released from process 0 for resource 7
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 4 for process 0
+Request approved for release of 0 resources | Released from process 0 for resource 4
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 13 for process 5
+Request approved for allocation of 0 resources | There are now 2 allocations in resource 5 for process 2
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 1
+Request for allocation of 3 resources has been denied as the max resources for resource 19 is 5 and there are already 8 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 2 for process 7
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 7 for process 8
+Request for allocation of 4 resources has been denied as the max resources for resource 14 is 5 and there are already 8 allocations
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 5 for process 4
+Request approved for allocation of 0 resources | There are now 1 allocations in resource 5 for process 3
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 14 for process 2
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 4 for process 1
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 7 for process 9
+Request for allocation of 1 resources has been denied as the max resources for resource 10 is 5 and there are already 6 allocations
+Request approved for allocation of 0 resources | There are now 1 allocations in resource 0 for process 0
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request for allocation of 4 resources has been denied as the max resources for resource 14 is 5 and there are already 9 allocations
+Request approved for allocation of 0 resources | There are now 1 allocations in resource 10 for process 2
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 5 for process 5
+Request for allocation of 1 resources has been denied as the max resources for resource 14 is 5 and there are already 6 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 10 for process 6
+Request for allocation of 1 resources has been denied as the max resources for resource 10 is 5 and there are already 6 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 7
+Request approved for release of 1 resources | Released from process 1 for resource 7
+Request approved for allocation of 0 resources | There are now 3 allocations in resource 19 for process 0
+Request approved for allocation of 0 resources | There are now 1 allocations in resource 9 for process 4
+Request approved for allocation of 0 resources | There are now 1 allocations in resource 10 for process 3
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 2
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 0 for process 1
+Request approved for release of 0 resources | Released from process 0 for resource 11
+Request approved for release of 1 resources | Released from process 4 for resource 7
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 5, which now has 1 allocations.
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 2 for process 8
+Request approved for allocation of 3 resources | There are now 3 allocations in resource 6 for process 0
+Request approved for release of 1 resources | Released from process 0 for resource 4
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 3
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 4 for process 2
+Request approved for allocation of 2 resources | There are now 3 allocations in resource 9 for process 5
+Request for allocation of 1 resources has been denied as the max resources for resource 19 is 5 and there are already 6 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 13 is 2 and there are already 4 allocations
+Request for allocation of 4 resources has been denied as the max resources for resource 19 is 5 and there are already 9 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 9 is 4 and there are already 6 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 7 for process 10
+Request approved for allocation of 2 resources | There are now 2 allocations in resource 15 for process 0
+Request for allocation of 2 resources has been denied as the max resources for resource 5 is 7 and there are already 9 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 4 for process 3
+Request for allocation of 3 resources has been denied as the max resources for resource 14 is 5 and there are already 8 allocations
+Request approved for release of 1 resources | Released from process 1 for resource 4
+Request approved for allocation of 3 resources | There are now 3 allocations in resource 6 for process 1
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request for allocation of 1 resources has been denied as the max resources for resource 9 is 4 and there are already 5 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 7 for process 11
+Request for allocation of 1 resources has been denied as the max resources for resource 10 is 5 and there are already 6 allocations
+Request approved for allocation of 0 resources | There are now 1 allocations in resource 18 for process 0
+Request for allocation of 3 resources has been denied as the max resources for resource 14 is 5 and there are already 8 allocations
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 7 for process 12
+Request for allocation of 2 resources has been denied as the max resources for resource 14 is 5 and there are already 7 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 0 for process 2
+Request for allocation of 1 resources has been denied as the max resources for resource 5 is 7 and there are already 8 allocations
+Request approved for allocation of 2 resources | There are now 2 allocations in resource 15 for process 1
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 7 for process 13
+Request for allocation of 1 resources has been denied as the max resources for resource 10 is 5 and there are already 6 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 9
+Request for allocation of 1 resources has been denied as the max resources for resource 10 is 5 and there are already 6 allocations
+Request approved for release of 1 resources | Released from process 8 for resource 7
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 10 for process 12
+Request for allocation of 1 resources has been denied as the max resources for resource 10 is 5 and there are already 6 allocations
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 0 for process 3
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 19 for process 2
+Request for allocation of 4 resources has been denied as the max resources for resource 14 is 5 and there are already 9 allocations
+Request for allocation of 6 resources has been denied as the max resources for resource 18 is 9 and there are already 14 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 10 for process 13
+Request approved for release of 1 resources | Released from process 4 for resource 9
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 2 for process 10
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for release of 0 resources | Released from process 0 for resource 7
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 4
+Request for allocation of 4 resources has been denied as the max resources for resource 19 is 5 and there are already 9 allocations
+Request approved for allocation of 0 resources | There are now 1 allocations in resource 10 for process 5
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 6 for process 2
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 6
+Request approved for release of 0 resources | Released from process 0 for resource 17
+Request approved for release of 1 resources | Released from process 12 for resource 7
+Request for allocation of 5 resources has been denied as the max resources for resource 19 is 5 and there are already 10 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 2 for process 11
+Request for allocation of 2 resources has been denied as the max resources for resource 13 is 2 and there are already 4 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 10
+Request for allocation of 6 resources has been denied as the max resources for resource 18 is 9 and there are already 14 allocations
+Request approved for allocation of 2 resources | There are now 2 allocations in resource 1 for process 0
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 2 for process 12
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 4 for process 4
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 6 for process 3
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 15 for process 2
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 5
+Request approved for release of 1 resources | Released from process 4 for resource 4
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 2 for process 13
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 18 for process 9
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 10 for process 8
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 11
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 10
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 12
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 14 for process 4
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 15 for process 3
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 7 for process 14
+Request for allocation of 2 resources has been denied as the max resources for resource 18 is 9 and there are already 10 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 5 is 7 and there are already 9 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 13
+Request for allocation of 2 resources has been denied as the max resources for resource 5 is 7 and there are already 9 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 11
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for release of 2 resources | Released from process 5 for resource 9
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 4 for process 0
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 12
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 0 for process 4
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 7 for process 15
+Request approved for allocation of 0 resources | There are now 3 allocations in resource 18 for process 3
+Request for allocation of 1 resources has been denied as the max resources for resource 10 is 5 and there are already 6 allocations
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 14 for process 5
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 1 for process 1
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 14 for process 6
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 13
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request approved for release of 0 resources | Released from process 0 for resource 9
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 13 for process 8
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 5, which now has 1 allocations.
+Request for allocation of 4 resources has been denied as the max resources for resource 19 is 5 and there are already 9 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 0
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 10 for process 15
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for release of 1 resources | Released from process 13 for resource 7
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 0 for process 5
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 4 for process 1
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 10 for process 6
+Request for release of 1 was greater than the amount of other resource allocations, and so 1 resources were removed from process 5, which now has 1 allocations.
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 13 for process 9
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 9 for process 7
+Request for allocation of 2 resources has been denied as the max resources for resource 19 is 5 and there are already 7 allocations
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request for allocation of 3 resources has been denied as the max resources for resource 19 is 5 and there are already 8 allocations
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request for allocation of 5 resources has been denied as the max resources for resource 18 is 9 and there are already 13 allocations
+Request approved for allocation of 2 resources | There are now 2 allocations in resource 6 for process 4
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 2 for process 14
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 1 for process 2
+Request for allocation of 1 resources has been denied as the max resources for resource 19 is 5 and there are already 6 allocations
+Request approved for allocation of 2 resources | There are now 2 allocations in resource 9 for process 1
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 6
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request for allocation of 6 resources has been denied as the max resources for resource 18 is 9 and there are already 14 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 10 is 5 and there are already 6 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 5 for process 8
+Request approved for release of 2 resources | Released from process 0 for resource 15
+Request for allocation of 2 resources has been denied as the max resources for resource 18 is 9 and there are already 10 allocations
+Request approved for allocation of 2 resources | There are now 2 allocations in resource 15 for process 4
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 2 for process 15
+Request approved for allocation of 2 resources | There are now 2 allocations in resource 1 for process 3
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 14
+Request for allocation of 2 resources has been denied as the max resources for resource 6 is 8 and there are already 10 allocations
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 7 for process 16
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 4 for process 6
+Request for allocation of 4 resources has been denied as the max resources for resource 18 is 9 and there are already 12 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 5 is 7 and there are already 8 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 10 is 5 and there are already 6 allocations
+Request approved for release of 0 resources | Released from process 0 for resource 11
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 7 for process 0
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request for allocation of 1 resources has been denied as the max resources for resource 10 is 5 and there are already 6 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 9 is 4 and there are already 6 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 1 is 6 and there are already 7 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 14
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 4 for process 2
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 15 for process 5
+Request for allocation of 1 resources has been denied as the max resources for resource 14 is 5 and there are already 6 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 10 for process 16
+Request approved for release of 2 resources | Released from process 1 for resource 15
+Request for allocation of 1 resources has been denied as the max resources for resource 10 is 5 and there are already 6 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 14 is 5 and there are already 6 allocations
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 13 for process 10
+Request for allocation of 1 resources has been denied as the max resources for resource 9 is 4 and there are already 5 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 13 is 2 and there are already 3 allocations
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 15
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 4 for process 3
+Request approved for release of 1 resources | Released from process 1 for resource 9
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 9 for process 2
+Request for allocation of 4 resources has been denied as the max resources for resource 18 is 9 and there are already 12 allocations
+Request approved for release of 1 resources | Released from process 0 for resource 7
+Request for allocation of 1 resources has been denied as the max resources for resource 0 is 4 and there are already 5 allocations
+Request approved for release of 0 resources | Released from process 0 for resource 11
+Request for allocation of 2 resources has been denied as the max resources for resource 9 is 4 and there are already 6 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 10 for process 7
+Request approved for release of 0 resources | Released from process 0 for resource 4
+Request for allocation of 2 resources has been denied as the max resources for resource 6 is 8 and there are already 10 allocations
+Request approved for release of 0 resources | Released from process 0 for resource 12
+Request approved for release of 1 resources | Released from process 1 for resource 9
+Request for allocation of 2 resources has been denied as the max resources for resource 9 is 4 and there are already 5 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 19 is 5 and there are already 7 allocations
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for release of 0 resources | Released from process 0 for resource 17
+Request for allocation of 2 resources has been denied as the max resources for resource 13 is 2 and there are already 4 allocations
+Request for allocation of 4 resources has been denied as the max resources for resource 19 is 5 and there are already 9 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 2 for process 16
+Request for allocation of 2 resources has been denied as the max resources for resource 13 is 2 and there are already 4 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 7
+Request approved for release of 1 resources | Released from process 2 for resource 4
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 4 for process 0
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request for allocation of 1 resources has been denied as the max resources for resource 1 is 6 and there are already 7 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 19 is 5 and there are already 7 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 7 for process 17
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request for allocation of 2 resources has been denied as the max resources for resource 18 is 9 and there are already 10 allocations
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for allocation of 0 resources | There are now 3 allocations in resource 6 for process 1
+Request for allocation of 2 resources has been denied as the max resources for resource 9 is 4 and there are already 5 allocations
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 5 for process 11
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request for allocation of 1 resources has been denied as the max resources for resource 14 is 5 and there are already 6 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 12 for process 0
+Request for allocation of 1 resources has been denied as the max resources for resource 1 is 6 and there are already 7 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 5 is 7 and there are already 9 allocations
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 18 for process 15
+Request for allocation of 1 resources has been denied as the max resources for resource 10 is 5 and there are already 6 allocations
+Request approved for release of 1 resources | Released from process 4 for resource 15
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 7 for process 2
+Request for allocation of 2 resources has been denied as the max resources for resource 1 is 6 and there are already 8 allocations
+Request approved for allocation of 2 resources | There are now 2 allocations in resource 15 for process 6
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 4 for process 1
+Request for allocation of 1 resources has been denied as the max resources for resource 5 is 7 and there are already 8 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 14 is 5 and there are already 7 allocations
+Request for allocation of 4 resources has been denied as the max resources for resource 14 is 5 and there are already 9 allocations
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 9 for process 10
+Request for allocation of 1 resources has been denied as the max resources for resource 10 is 5 and there are already 6 allocations
+Request for release of 2 was greater than the amount of other resource allocations, and so 2 resources were removed from process 3, which now has 2 allocations.
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 4 for process 4
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 10 for process 15
+Request approved for release of 0 resources | Released from process 0 for resource 7
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 7 for process 3
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request for allocation of 1 resources has been denied as the max resources for resource 13 is 2 and there are already 3 allocations
+Request approved for allocation of 2 resources | There are now 2 allocations in resource 12 for process 1
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 10, which now has 1 allocations.
+Request for allocation of 1 resources has been denied as the max resources for resource 18 is 9 and there are already 10 allocations
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 0 for process 7
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 10 for process 9
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 11
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 8
+Request approved for release of 0 resources | Released from process 0 for resource 4
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 8 for process 0
+Request for allocation of 1 resources has been denied as the max resources for resource 9 is 4 and there are already 5 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 9 is 4 and there are already 6 allocations
+Request approved for release of 0 resources | Released from process 0 for resource 11
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 2 for process 17
+Request for allocation of 1 resources has been denied as the max resources for resource 13 is 2 and there are already 3 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 13 is 2 and there are already 4 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 6 is 8 and there are already 10 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 4 for process 5
+Request for allocation of 1 resources has been denied as the max resources for resource 19 is 5 and there are already 6 allocations
+Request approved for release of 0 resources | Released from process 0 for resource 19
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request for allocation of 3 resources has been denied as the max resources for resource 19 is 5 and there are already 8 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 9
+Request approved for release of 0 resources | Released from process 0 for resource 4
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 13
+Request for allocation of 1 resources has been denied as the max resources for resource 4 is 2 and there are already 3 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 5 is 7 and there are already 9 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 9 is 4 and there are already 5 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 13 is 2 and there are already 3 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 6 is 8 and there are already 9 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 17
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request for allocation of 1 resources has been denied as the max resources for resource 4 is 2 and there are already 3 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 9 is 4 and there are already 5 allocations
+Request for allocation of 5 resources has been denied as the max resources for resource 18 is 9 and there are already 14 allocations
+Request approved for release of 1 resources | Released from process 1 for resource 4
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 6 for process 7
+Request for allocation of 1 resources has been denied as the max resources for resource 5 is 7 and there are already 8 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 14 for process 8
+Request for allocation of 3 resources has been denied as the max resources for resource 14 is 5 and there are already 8 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 5 for process 12
+Request approved for release of 1 resources | Released from process 4 for resource 15
+Request for allocation of 2 resources has been denied as the max resources for resource 18 is 9 and there are already 11 allocations
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 17
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 4 for process 3
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 5 for process 14
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 12 for process 2
+Request for allocation of 2 resources has been denied as the max resources for resource 1 is 6 and there are already 8 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 10 is 5 and there are already 6 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 5 is 7 and there are already 9 allocations
+Request for allocation of 3 resources has been denied as the max resources for resource 14 is 5 and there are already 8 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 14 is 5 and there are already 6 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 0 for process 8
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 7 for process 4
+Request for allocation of 1 resources has been denied as the max resources for resource 5 is 7 and there are already 8 allocations
+Request approved for release of 1 resources | Released from process 2 for resource 9
+Request approved for allocation of 3 resources | There are now 3 allocations in resource 12 for process 3
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request approved for release of 0 resources | Released from process 0 for resource 15
+Request approved for release of 3 resources | Released from process 0 for resource 19
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request for allocation of 5 resources has been denied as the max resources for resource 18 is 9 and there are already 14 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 14 is 5 and there are already 7 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 0 for process 9
+Request for allocation of 1 resources has been denied as the max resources for resource 10 is 5 and there are already 6 allocations
+Request for allocation of 5 resources has been denied as the max resources for resource 19 is 5 and there are already 7 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 10
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 10 for process 12
+Request for allocation of 1 resources has been denied as the max resources for resource 13 is 2 and there are already 3 allocations
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 3, which now has 2 allocations.
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 14
+Request for allocation of 1 resources has been denied as the max resources for resource 7 is 3 and there are already 4 allocations
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 8 for process 2
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 4 for process 6
+Request for allocation of 1 resources has been denied as the max resources for resource 10 is 5 and there are already 6 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 11
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 19 for process 9
+Request for allocation of 1 resources has been denied as the max resources for resource 6 is 8 and there are already 9 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 4 for process 10
+Request for allocation of 2 resources has been denied as the max resources for resource 6 is 8 and there are already 10 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 12
+Request for allocation of 2 resources has been denied as the max resources for resource 9 is 4 and there are already 5 allocations
+Request for allocation of 6 resources has been denied as the max resources for resource 18 is 9 and there are already 15 allocations
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 8 for process 3
+Request approved for release of 0 resources | Released from process 0 for resource 4
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 2
+Request for allocation of 2 resources has been denied as the max resources for resource 13 is 2 and there are already 4 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 9 is 4 and there are already 5 allocations
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request approved for release of 1 resources | Released from process 1 for resource 12
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 13
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 4 for process 11
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 14 for process 10
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 15 for process 8
+Request for allocation of 1 resources has been denied as the max resources for resource 4 is 2 and there are already 3 allocations
+Request approved for allocation of 0 resources | There are now 1 allocations in resource 4 for process 4
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 10 for process 17
+Request for allocation of 2 resources has been denied as the max resources for resource 9 is 4 and there are already 5 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 5 for process 14
+Request for allocation of 1 resources has been denied as the max resources for resource 18 is 9 and there are already 10 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 6 is 8 and there are already 9 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 5 for process 16
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request for allocation of 1 resources has been denied as the max resources for resource 4 is 2 and there are already 3 allocations
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 15 for process 9
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 14 for process 11
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 18 for process 8
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 0 for process 10
+Request for allocation of 2 resources has been denied as the max resources for resource 14 is 5 and there are already 7 allocations
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 12 for process 4
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 5 for process 15
+Request approved for release of 0 resources | Released from process 0 for resource 11
+Request approved for allocation of 0 resources | There are now 1 allocations in resource 0 for process 3
+Request for allocation of 4 resources has been denied as the max resources for resource 14 is 5 and there are already 9 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 4 is 2 and there are already 3 allocations
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request approved for release of 1 resources | Released from process 5 for resource 15
+Request for allocation of 3 resources has been denied as the max resources for resource 14 is 5 and there are already 8 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 1 is 6 and there are already 8 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 18 is 9 and there are already 11 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 0 for process 11
+Request approved for release of 0 resources | Released from process 0 for resource 17
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 19 for process 10
+Request approved for release of 0 resources | Released from process 0 for resource 19
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 0 for process 12
+Request for allocation of 2 resources has been denied as the max resources for resource 14 is 5 and there are already 7 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 13 for process 17
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 10 for process 14
+Request approved for release of 0 resources | Released from process 0 for resource 0
+Request for allocation of 2 resources has been denied as the max resources for resource 9 is 4 and there are already 5 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 7 for process 6
+Request for allocation of 1 resources has been denied as the max resources for resource 0 is 4 and there are already 5 allocations
+Request approved for release of 0 resources | Released from process 0 for resource 17
+Request approved for release of 3 resources | Released from process 3 for resource 12
+Request for allocation of 1 resources has been denied as the max resources for resource 6 is 8 and there are already 9 allocations
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 19 for process 12
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 8 for process 4
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 10 for process 15
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 14
+Request approved for release of 2 resources | Released from process 3 for resource 19
+Request approved for release of 0 resources | Released from process 0 for resource 4
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 19 for process 13
+Request for release of 1 was greater than the amount of other resource allocations, and so 1 resources were removed from process 4, which now has 1 allocations.
+Request approved for allocation of 0 resources | There are now 1 allocations in resource 9 for process 7
+Request for allocation of 2 resources has been denied as the max resources for resource 6 is 8 and there are already 10 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 1 is 6 and there are already 8 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 6 is 8 and there are already 9 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 15
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 5 for process 17
+Request for allocation of 1 resources has been denied as the max resources for resource 4 is 2 and there are already 3 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 8 for process 5
+Request for allocation of 2 resources has been denied as the max resources for resource 6 is 8 and there are already 10 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 5 is 7 and there are already 8 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 6 is 8 and there are already 10 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 1 is 6 and there are already 7 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 15 for process 11
+Request approved for release of 0 resources | Released from process 0 for resource 17
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 1 for process 8
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 18 for process 10
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 15 for process 12
+Request for allocation of 1 resources has been denied as the max resources for resource 4 is 2 and there are already 3 allocations
+Request approved for release of 0 resources | Released from process 0 for resource 16
+Request for allocation of 4 resources has been denied as the max resources for resource 14 is 5 and there are already 9 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 9 is 4 and there are already 5 allocations
+Request for allocation of 3 resources has been denied as the max resources for resource 14 is 5 and there are already 8 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 4 is 2 and there are already 3 allocations
+Request for allocation of 3 resources has been denied as the max resources for resource 15 is 6 and there are already 8 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 1 is 6 and there are already 7 allocations
+Request approved for release of 2 resources | Released from process 6 for resource 15
+Request for allocation of 4 resources has been denied as the max resources for resource 18 is 9 and there are already 13 allocations
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request for allocation of 1 resources has been denied as the max resources for resource 4 is 2 and there are already 3 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 18 is 9 and there are already 11 allocations
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request for allocation of 3 resources has been denied as the max resources for resource 14 is 5 and there are already 8 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 17
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 0 for process 14
+Request for allocation of 6 resources has been denied as the max resources for resource 18 is 9 and there are already 15 allocations
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 12 for process 6
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 18 for process 13
+Request for allocation of 1 resources has been denied as the max resources for resource 10 is 5 and there are already 6 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 7 for process 7
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request for allocation of 1 resources has been denied as the max resources for resource 4 is 2 and there are already 3 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 8
+Request for release of 1 was greater than the amount of other resource allocations, and so 1 resources were removed from process 6, which now has 1 allocations.
+Request approved for release of 0 resources | Released from process 0 for resource 17
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 0 for process 15
+Request approved for release of 0 resources | Released from process 0 for resource 4
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 19 for process 14
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for release of 1 resources | Released from process 9 for resource 19
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 9 for process 9
+Request for release of 1 was greater than the amount of other resource allocations, and so 1 resources were removed from process 6, which now has 1 allocations.
+Request approved for release of 0 resources | Released from process 0 for resource 17
+Request for allocation of 1 resources has been denied as the max resources for resource 13 is 2 and there are already 3 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 1 for process 10
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 16
+Request approved for allocation of 2 resources | There are now 2 allocations in resource 19 for process 15
+Request for allocation of 1 resources has been denied as the max resources for resource 5 is 7 and there are already 8 allocations
+Request approved for release of 1 resources | Released from process 1 for resource 12
+Request for allocation of 3 resources has been denied as the max resources for resource 6 is 8 and there are already 11 allocations
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 8 for process 6
+Request approved for release of 1 resources | Released from process 4 for resource 12
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 4 for process 16
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request for allocation of 1 resources has been denied as the max resources for resource 1 is 6 and there are already 7 allocations
+Request for allocation of 3 resources has been denied as the max resources for resource 6 is 8 and there are already 11 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 1 for process 10
+Request approved for release of 1 resources | Released from process 8 for resource 15
+Request for allocation of 2 resources has been denied as the max resources for resource 1 is 6 and there are already 8 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 6 for process 15
+Request for allocation of 4 resources has been denied as the max resources for resource 14 is 5 and there are already 9 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 10 for process 17
+Request approved for allocation of 2 resources | There are now 2 allocations in resource 15 for process 14
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 14 for process 16
+Request for allocation of 1 resources has been denied as the max resources for resource 9 is 4 and there are already 5 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 1 is 6 and there are already 7 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 4 for process 7
+Request for allocation of 1 resources has been denied as the max resources for resource 1 is 6 and there are already 7 allocations
+Request for release of 1 was greater than the amount of other resource allocations, and so 1 resources were removed from process 14, which now has 2 allocations.
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 4 for process 10
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 7 for process 8
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 1 for process 12
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 15 for process 15
+Request for allocation of 1 resources has been denied as the max resources for resource 18 is 9 and there are already 10 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 0 for process 16
+Request for allocation of 6 resources has been denied as the max resources for resource 18 is 9 and there are already 15 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 1 for process 13
+Request for allocation of 1 resources has been denied as the max resources for resource 7 is 3 and there are already 4 allocations
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 12 for process 7
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 4 for process 11
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 13 for process 8
+Request approved for allocation of 0 resources | There are now 1 allocations in resource 9 for process 10
+Request for allocation of 1 resources has been denied as the max resources for resource 4 is 2 and there are already 3 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 18 is 9 and there are already 10 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 16 for process 17
+Request approved for release of 0 resources | Released from process 0 for resource 17
+Request for allocation of 4 resources has been denied as the max resources for resource 19 is 5 and there are already 8 allocations
+Request approved for release of 0 resources | Released from process 0 for resource 11
+Request for allocation of 1 resources has been denied as the max resources for resource 4 is 2 and there are already 3 allocations
+Request for release of 1 was greater than the amount of other resource allocations, and so 1 resources were removed from process 15, which now has 2 allocations.
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 11
+Request for allocation of 1 resources has been denied as the max resources for resource 0 is 4 and there are already 5 allocations
+Request approved for release of 0 resources | Released from process 0 for resource 17
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 12
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request for allocation of 1 resources has been denied as the max resources for resource 4 is 2 and there are already 3 allocations
+Request approved for release of 1 resources | Released from process 6 for resource 12
+Request for allocation of 2 resources has been denied as the max resources for resource 6 is 8 and there are already 10 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 9 is 4 and there are already 5 allocations
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 8 for process 7
+Request for allocation of 3 resources has been denied as the max resources for resource 6 is 8 and there are already 11 allocations
+Request approved for release of 0 resources | Released from process 0 for resource 17
+Request for allocation of 1 resources has been denied as the max resources for resource 4 is 2 and there are already 3 allocations
+Request approved for release of 0 resources | Released from process 0 for resource 15
+Request approved for release of 0 resources | Released from process 0 for resource 17
+Request for release of 1 was greater than the amount of other resource allocations, and so 1 resources were removed from process 7, which now has 1 allocations.
+Request approved for allocation of 0 resources | There are now 1 allocations in resource 0 for process 0
+Request for allocation of 2 resources has been denied as the max resources for resource 1 is 6 and there are already 8 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 15 is 6 and there are already 7 allocations
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 4 for process 9
+Request approved for release of 1 resources | Released from process 9 for resource 15
+Request for allocation of 2 resources has been denied as the max resources for resource 9 is 4 and there are already 6 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 7 for process 10
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 12 for process 8
+Request approved for release of 2 resources | Released from process 14 for resource 15
+Request for allocation of 2 resources has been denied as the max resources for resource 1 is 6 and there are already 8 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 0 for process 17
+Request for allocation of 2 resources has been denied as the max resources for resource 1 is 6 and there are already 8 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 18 is 9 and there are already 11 allocations
+Request approved for release of 1 resources | Released from process 0 for resource 0
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 12 for process 9
+Request for allocation of 3 resources has been denied as the max resources for resource 18 is 9 and there are already 12 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 7 is 3 and there are already 4 allocations
+Request approved for release of 2 resources | Released from process 15 for resource 19
+Request for allocation of 2 resources has been denied as the max resources for resource 13 is 2 and there are already 4 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 7 for process 12
+Request for allocation of 2 resources has been denied as the max resources for resource 1 is 6 and there are already 8 allocations
+Request approved for allocation of 2 resources | There are now 2 allocations in resource 19 for process 17
+Request for allocation of 1 resources has been denied as the max resources for resource 4 is 2 and there are already 3 allocations
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request for release of 1 was greater than the amount of other resource allocations, and so 1 resources were removed from process 17, which now has 2 allocations.
+Request for allocation of 2 resources has been denied as the max resources for resource 13 is 2 and there are already 4 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 7 is 3 and there are already 4 allocations
+Request for allocation of 3 resources has been denied as the max resources for resource 6 is 8 and there are already 11 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 8 for process 8
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 13 for process 12
+Request for allocation of 1 resources has been denied as the max resources for resource 4 is 2 and there are already 3 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 6 for process 17
+Request for allocation of 2 resources has been denied as the max resources for resource 9 is 4 and there are already 6 allocations
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 9, which now has 1 allocations.
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 13 for process 13
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 8 for process 9
+Request for allocation of 1 resources has been denied as the max resources for resource 6 is 8 and there are already 9 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 8
+Request for allocation of 1 resources has been denied as the max resources for resource 4 is 2 and there are already 3 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 6 is 8 and there are already 9 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 15
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 15 for process 17
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request for allocation of 2 resources has been denied as the max resources for resource 1 is 6 and there are already 8 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 6 is 8 and there are already 10 allocations
+Request approved for allocation of 0 resources | There are now 1 allocations in resource 9 for process 9
+Request for allocation of 1 resources has been denied as the max resources for resource 4 is 2 and there are already 3 allocations
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 12 for process 10
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 4 for process 12
+Request approved for release of 0 resources | Released from process 0 for resource 17
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 18 for process 17
+Request for allocation of 1 resources has been denied as the max resources for resource 1 is 6 and there are already 7 allocations
+Request approved for release of 0 resources | Released from process 0 for resource 15
+Request for allocation of 1 resources has been denied as the max resources for resource 4 is 2 and there are already 3 allocations
+Request for allocation of 4 resources has been denied as the max resources for resource 18 is 9 and there are already 13 allocations
+Request approved for allocation of 3 resources | There are now 3 allocations in resource 12 for process 11
+Request for release of 1 was greater than the amount of other resource allocations, and so 1 resources were removed from process 17, which now has 2 allocations.
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 12 for process 12
+Request approved for release of 0 resources | Released from process 0 for resource 15
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 7 for process 14
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 4 for process 16
+Request approved for allocation of 3 resources | There are now 3 allocations in resource 12 for process 13
+Request approved for release of 0 resources | Released from process 0 for resource 11
+Request approved for release of 2 resources | Released from process 17 for resource 19
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 14, which now has 1 allocations.
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 8 for process 10
+Request for allocation of 1 resources has been denied as the max resources for resource 7 is 3 and there are already 4 allocations
+Request approved for release of 2 resources | Released from process 11 for resource 12
+Request for allocation of 1 resources has been denied as the max resources for resource 13 is 2 and there are already 3 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 9 is 4 and there are already 6 allocations
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 14, which now has 1 allocations.
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 8 for process 11
+Request for allocation of 2 resources has been denied as the max resources for resource 9 is 4 and there are already 6 allocations
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 8 for process 12
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 13 for process 15
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 1 for process 17
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 6 for process 14
+Request approved for release of 0 resources | Released from process 0 for resource 17
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 8 for process 13
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 11
+Request for allocation of 5 resources has been denied as the max resources for resource 18 is 9 and there are already 14 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 9 is 4 and there are already 5 allocations
+Request for allocation of 3 resources has been denied as the max resources for resource 6 is 8 and there are already 11 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 1 is 6 and there are already 8 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 4 for process 14
+Request approved for release of 0 resources | Released from process 0 for resource 15
+Request for allocation of 1 resources has been denied as the max resources for resource 9 is 4 and there are already 5 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 18 for process 11
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request for allocation of 6 resources has been denied as the max resources for resource 18 is 9 and there are already 15 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 4 is 2 and there are already 3 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 4 is 2 and there are already 3 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 12 for process 14
+Request for allocation of 1 resources has been denied as the max resources for resource 7 is 3 and there are already 4 allocations
+Request for allocation of 4 resources has been denied as the max resources for resource 18 is 9 and there are already 13 allocations
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for release of 0 resources | Released from process 0 for resource 11
+Request approved for allocation of 2 resources | There are now 2 allocations in resource 12 for process 15
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 17
+Request for release of 1 was greater than the amount of other resource allocations, and so 1 resources were removed from process 14, which now has 1 allocations.
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 13 for process 16
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 14, which now has 1 allocations.
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for allocation of 1 resources | There are now 1 allocations in resource 8 for process 14
+Request for allocation of 1 resources has been denied as the max resources for resource 6 is 8 and there are already 9 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 8 is 9 and there are already 10 allocations
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 15, which now has 1 allocations.
+Request for allocation of 2 resources has been denied as the max resources for resource 9 is 4 and there are already 6 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 4 is 2 and there are already 3 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 9 for process 15
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 7 for process 17
+Request for allocation of 4 resources has been denied as the max resources for resource 18 is 9 and there are already 13 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 12 is 10 and there are already 12 allocations
+Request for allocation of 4 resources has been denied as the max resources for resource 18 is 9 and there are already 13 allocations
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 13 for process 17
+Request approved for release of 0 resources | Released from process 0 for resource 11
+Request approved for release of 0 resources | Released from process 0 for resource 19
+Request for release of 0 was greater than the amount of other resource allocations, and so 0 resources were removed from process 0, which now has 0 allocations.
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 6 for process 17
+Request for allocation of 1 resources has been denied as the max resources for resource 8 is 9 and there are already 10 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 4 is 2 and there are already 3 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 9 is 4 and there are already 6 allocations
+Request for allocation of 2 resources has been denied as the max resources for resource 12 is 10 and there are already 12 allocations
+Request for allocation of 4 resources has been denied as the max resources for resource 18 is 9 and there are already 13 allocations
+Request for release of 1 was greater than the amount of other resource allocations, and so 1 resources were removed from process 14, which now has 1 allocations.
+Request approved for release of 0 resources | Released from process 0 for resource 11
+Request approved for allocation of 0 resources | There are now 0 allocations in resource 8 for process 17
+Request for allocation of 1 resources has been denied as the max resources for resource 9 is 4 and there are already 5 allocations
+Request for allocation of 1 resources has been denied as the max resources for resource 18 is 9 and there are already 10 allocations
+Request approved for release of 0 resources | Released from process 0 for resource 11

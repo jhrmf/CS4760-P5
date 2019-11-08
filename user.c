@@ -30,21 +30,23 @@ void threadFunc(float creationTime, float checkIfTerminate, int element){       
     do {                                                                   //nice little do while loop for our semaphore
 
         if(checkTime() >= checkMe){            //check if the current time is equal to or greater than termination check
-            leaveItToChance = getRandom(0, 100);                                                //get the value 0 to 100
-            if(leaveItToChance < 10 ){                                             //if the value is 0-9 or a 10% chance
-                resources = shmat(dataId, NULL, 0);                         //attach to shared memory for resource table
-                //resources[element].alive = 0;                                                   //mark it as not alive
-                shmdt(resources);                                                            //detach from shared memory
-                printf("Oh shit!!\n");
+            leaveItToChance = getRandom(100, 0);                                                //get the value 0 to 100
+            if(leaveItToChance < 2 ){                                             //if the value is 0-9 or a 10% chance
+                int decisionId = shmget(decisionKey, 2048, 0666|IPC_CREAT);
+                iShould = shmat(decisionId, NULL, 0);
+                iShould->deadCount = 1;
                 break;
             }
             else{
                 sem_wait(&mutex);                                                               //enter critical section
                 int decisionId = shmget(decisionKey, 2048, 0666|IPC_CREAT);
+                int whichResource = getRandom(19, 0);
                 if(requestOrRelease() == 1){
                     iShould = shmat(decisionId, NULL, 0);
                     iShould->requestOrRelease = 1;
                     iShould->element = element;
+                    iShould->resource = whichResource;
+                    iShould->deadCount = 0;
                     shmdt(resources);
                     shmdt(iShould);
                     //request
@@ -52,6 +54,7 @@ void threadFunc(float creationTime, float checkIfTerminate, int element){       
                     iShould = shmat(decisionId, NULL, 0);
                     iShould->requestOrRelease = 0;
                     iShould->element = element;
+                    iShould->resource = whichResource;
                     shmdt(resources);
                     shmdt(iShould);
                     //release resource
@@ -69,19 +72,19 @@ int main(int argc, char* argv[]){
     float creationTime = checkTime();
     int element = atoi(argv[1]);
     float checkIfTerminate = ((float)getRandom(250, 0)/1000);
-    int maxClaimsTemp;
 
+    int i;
     key_t dataKey = 65;
     int dataId = shmget(dataKey, 2048, 0666|IPC_CREAT);
     resources = shmat(dataId, NULL, 0);
-    resources[element].alive = 1;
-    maxClaimsTemp = resources[element].requests + resources[element].allocations;
-    resources[element].maxClaims = getRandom(0, maxClaimsTemp);
+    for(i = 0; i < 20; i++){
+        resources[element].maxClaims[i] = getRandom(maxResources[i], 0);
+        resources[element].allocations[i] = 0;
+    }
     shmdt(resources);
 
     sem_init(&mutex, 1, 1);
     threadFunc(creationTime, checkIfTerminate, element);                                       //call semaphore function
     sem_destroy(&mutex);                                                                         //destroy the semaphore
-    printf("I fucking died yo!\n");
     exit(0);
 }
