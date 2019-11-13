@@ -23,7 +23,7 @@
 
 int getSeconds(){                               //function for retrieving the second in our time stored in shared memory
     key_t key = 66;
-    int secID = shmget(key, 2048, 0444);
+    int secID = shmget(key, 1024, 0444);
     char *tempTime = (char*) shmat(secID, (void*)0, 0);
     int seconds = atoi(tempTime);
     shmdt(tempTime);
@@ -31,7 +31,7 @@ int getSeconds(){                               //function for retrieving the se
 }
 float getNano(){                            //function for retrieving the nanosecond our in time stored in shared memory
     key_t key = 67;
-    int nanoID = shmget(key, 2048, 0444);
+    int nanoID = shmget(key, 1024, 0444);
     char *tempTime = (char*) shmat(nanoID, (void*)0, 0);
     float nano = (float)(atoi(tempTime)) / 1000000000;
     shmdt(tempTime);
@@ -44,14 +44,14 @@ struct myTime{                                                                  
 
 };
 
-struct RESOURCE{
+struct RESOURCE{                                                                         //struct for the resource table
 
     int alive;
     int maxClaims[20];
     int allocations[20];
 };
 
-struct WHATDO{
+struct WHATDO{                                         //struct for information for parent regarding request and release
     int requestOrRelease;
     int element;
     int resource;
@@ -59,9 +59,9 @@ struct WHATDO{
 };
 
 struct myTime virtual;                                                             //struct for holding the virtual time
-struct RESOURCE *resources;
-struct WHATDO *iShould;
-int maxResources[20] = {4, 6, 4, 7, 2, 7, 8, 3, 9, 4, 5, 3, 10, 2, 5, 6, 2, 6, 9, 5};
+struct RESOURCE *resources;                                                          //struct for holding resource table
+struct WHATDO *iShould;                                                      //struct for holding information for parent
+int maxResources[20] = {4, 6, 4, 7, 2, 7, 8, 3, 9, 4, 5, 3, 10, 2, 5, 6, 2, 6, 9, 5};                //our max resources
 
 const int getRandom(const int max, const int min){            //function for getting a random number between max and min
     int randomNumber = ((rand() % (max + 1 - min)) + min);
